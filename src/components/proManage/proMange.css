@@ -1,0 +1,24 @@
+.add-pro {
+    margin: 10px;
+    height: 174px;
+    display: block;
+    text-align: center;
+    line-height: 174px;
+    border: 1px dashed;
+}
+
+.set-config-main {
+    position: relative;
+    height: 100%;
+    background: #fff
+}
+
+.add-new-pro {
+    background-color: #F9F9F9;
+    color: #666666;
+    border-color: #dcdcdc;
+}
+
+.ant-select-search__field{
+    padding-left: 0px !important;
+}

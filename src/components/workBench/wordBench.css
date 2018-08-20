@@ -1,0 +1,45 @@
+.select-main {
+    text-align: center;
+    margin-top: 10px
+}
+
+.tree {
+    margin: 0 10px !important
+}
+
+.add-project {
+    left: 100px;
+    margin-top: 10px;
+    background-color: #F9F9F9;
+    color: #666666;
+    border-color: #dcdcdc;
+}
+
+.function-box {
+    display: inline-block;
+    width: 200px;
+    padding: 2px 0;
+    background: #fff;
+    border: 1px solid #dcdcdc;
+    box-shadow: 2px 2px 4px #888888;
+}
+
+.add-function {
+    display: block;
+    padding: 0 20px;
+}
+
+.add-function:hover {
+    background: #dcdcdc;
+    cursor: pointer
+}
+
+.ace_print-margin {
+    background: transparent !important;
+}
+
+.codeMarker {
+    background: #FFF677;
+    position: absolute;
+    z-index: 20
+}
